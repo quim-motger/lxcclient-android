@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1057892810509",
+    "firebase_url": "https://linux-containers.firebaseio.com",
+    "project_id": "linux-containers",
+    "storage_bucket": "linux-containers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057892810509:android:2d664b4dac438ac2387a44",
+        "android_client_info": {
+          "package_name": "edu.upc.insside.gessi.lxcclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057892810509-3pp5jplmim31mv0ag7v3p0c9ggef0llu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2DdQLa980I_HTyoivZGmQKGSEdhWQHaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057892810509-3pp5jplmim31mv0ag7v3p0c9ggef0llu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
